@@ -37,7 +37,11 @@ This is a complete end-to-end data analysis portfolio project showcasing an ETL 
 3. **The Premium Market:** **Minato Ku** displays a spike in average price with a relatively lower review count, indicating it caters to a luxury/premium demographic.
 
 ## 📊 Dashboard Preview
-![Tokyo Airbnb Dashboard](Insert your dashboard image link here)
 
----
+
+---<img width="1255" height="727" alt="Screenshot 2026-03-09 233243" src="https://github.com/user-attachments/assets/55411974-7d27-4e0a-8c68-7e216941898b" />
+
+
+<img width="830" height="656" alt="Screenshot 2026-03-09 233107" src="https://github.com/user-attachments/assets/f6594a11-b3a4-443e-a12c-619e2460b968" />
+
 *If you have any questions or feedback regarding this project, feel free to reach out!*
